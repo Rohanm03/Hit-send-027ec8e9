@@ -1,0 +1,14 @@
+input {
+	border-radius: 10px;
+
+}
+
+#name {
+	border-radius: 2px 4px 2px;
+
+}
+
+.knop {
+	border-radius: 10px 5%;
+
+}
